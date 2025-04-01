@@ -190,3 +190,6 @@ p {
   cursor: pointer;
   transition: background-color 0.3s;
 }
+#footer {
+  text-align: center;
+}
